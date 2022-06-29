@@ -1,8 +1,8 @@
 # facecountdetect
 
-- Nama : Wira Aji Nugraha
-- Kelas : TIF B
-- NIM : 32602000064
+- Nama : Winda Setyaningsih
+- Kelas : TIF C 
+- NIM : 32602000113
 
 Program Ini Dibuat Untuk Memenuhi Tugas Besar Desktop Programming.
 
