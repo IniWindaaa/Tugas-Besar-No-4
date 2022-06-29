@@ -4,8 +4,8 @@
 - Kelas : TIF C 
 - NIM : 32602000113
 
-Program Ini Dibuat Untuk Memenuhi Tugas Besar Desktop Programming.
+Program Ini Dibuat Untuk Memenuhi Tugas Besar Desktop Programming no 4 yang diampu oleh Pak Sam Farisa Chaerul Haviana, ST., M.Kom
 
-Di sini saya membuat Aplikasi Pendeteksi dan Penghitung Wajah.
+Aplikasi Pendeteksi dan Penghitung Wajah.
 
 Terima kasih
